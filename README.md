@@ -16,5 +16,6 @@ Soy estudiante de Licenciatura en Informatica en la UNLP 🇦🇷, experimentand
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 
-###📩 Contacto:
+### 📩 Contacto:
+
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:eeliassosa05@gmail.com)
