@@ -12,7 +12,9 @@ Soy estudiante de Licenciatura en Informatica en la UNLP 🇦🇷, experimentand
 
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+
+###📩 Contacto:
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:eeliassosa05@gmail.com)
