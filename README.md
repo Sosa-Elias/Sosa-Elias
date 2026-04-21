@@ -1,6 +1,6 @@
 # ¡Hola, Me llamo Elias Sosa!🙌
 
-Soy estudiante de Licenciatura en Informatica en la UNLP 🇦🇷, experimentando con el desarrollo de software
+Soy estudiante de Licenciatura en Informatica en la UNLP 🇦🇷. Actualmente me encuentro experimentando con el desarrollo de software
 
 ### 👨‍💻 Sobre mí
 
