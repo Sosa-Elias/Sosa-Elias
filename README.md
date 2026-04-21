@@ -18,4 +18,6 @@ Soy estudiante de Licenciatura en Informatica en la UNLP 🇦🇷, experimentand
 
 ### 📩 Contacto:
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:eeliassosa05@gmail.com?subject=Contacto%20desde%20GitHub)
+### 📩 Contacto:
+
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:eeliassosa05@gmail.com?subject=Contacto%20desde%20GitHub) **eeliassosa05@gmail.com**
